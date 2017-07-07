@@ -1,0 +1,10 @@
+C:\Users\Ilse Macias\Desktop\SeleniumWebDriver\SetupEnviroment\WCFService\GasmartGasolina\GasmartGasolina\bin\Debug\GasmartGasolina.exe.config
+C:\Users\Ilse Macias\Desktop\SeleniumWebDriver\SetupEnviroment\WCFService\GasmartGasolina\GasmartGasolina\bin\Debug\GasmartGasolina.exe
+C:\Users\Ilse Macias\Desktop\SeleniumWebDriver\SetupEnviroment\WCFService\GasmartGasolina\GasmartGasolina\bin\Debug\GasmartGasolina.pdb
+C:\Users\Ilse Macias\Desktop\SeleniumWebDriver\SetupEnviroment\WCFService\GasmartGasolina\GasmartGasolina\bin\Debug\WebDriver.dll
+C:\Users\Ilse Macias\Desktop\SeleniumWebDriver\SetupEnviroment\WCFService\GasmartGasolina\GasmartGasolina\bin\Debug\WebDriver.Support.dll
+C:\Users\Ilse Macias\Desktop\SeleniumWebDriver\SetupEnviroment\WCFService\GasmartGasolina\GasmartGasolina\bin\Debug\WebDriver.xml
+C:\Users\Ilse Macias\Desktop\SeleniumWebDriver\SetupEnviroment\WCFService\GasmartGasolina\GasmartGasolina\bin\Debug\WebDriver.Support.xml
+C:\Users\Ilse Macias\Desktop\SeleniumWebDriver\SetupEnviroment\WCFService\GasmartGasolina\GasmartGasolina\obj\Debug\GasmartGasolina.csprojResolveAssemblyReference.cache
+C:\Users\Ilse Macias\Desktop\SeleniumWebDriver\SetupEnviroment\WCFService\GasmartGasolina\GasmartGasolina\obj\Debug\GasmartGasolina.exe
+C:\Users\Ilse Macias\Desktop\SeleniumWebDriver\SetupEnviroment\WCFService\GasmartGasolina\GasmartGasolina\obj\Debug\GasmartGasolina.pdb
